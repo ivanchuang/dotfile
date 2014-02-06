@@ -1,0 +1,7 @@
+[user]
+	name = heavenruler
+	email = heavenruler.pixnet.tw
+[alias]
+	co = checkout
+	ci = commit
+	st = status
