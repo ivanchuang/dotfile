@@ -10,6 +10,7 @@ setenv SSH_AUTH_SOCK /tmp/ssh-agent-$USER-screen
 
 caption always "%{dK}%{+b K}> %{W}%n %t %{K}<%{W}%=%{K}load{%l} %{C}$USER@%{W}%H %{dB}%{W}  %0C %A  "
 #idle 300 lockscreen
+defutf8 on  
 
 
 vbell off 
